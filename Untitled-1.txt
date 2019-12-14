@@ -1,0 +1,22 @@
+
+   <div class="container border-bottom">
+    <div class="row">
+        <div class= "col-xs-4">
+    
+        </div>
+        <div class= 'col-xs-4'>
+            
+        </div>  
+        <div class="col-xs-4">
+        </div>
+
+        </div>
+        <div class="card bg-light text-grey">
+               
+                <div class="card-img-overlay">
+                  <h5 class="card-title text-info border-bottom">About Me</h5>
+                  <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, temporibus blanditiis! Eaque cum enim excepturi natus exercitationem optio mollitia aliquam ea accusamus et voluptate, laboriosam quia delectus unde, deleniti architecto. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut, saepe voluptatem? Tempora fugiat accusamus neque repudiandae doloribus aliquam suscipit architecto consectetur hic eveniet. Quos provident a earum itaque sint cupiditate..</p>
+                  <p class="card-text">Last updated 3 mins ago</p>
+                </div>
+              </div>
+    </div>

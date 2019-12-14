@@ -1,0 +1,25 @@
+body { background-image: url(./images/criss-cross.png);}
+
+
+.aboutme {
+
+    color: teal;
+}
+
+.navbarcss {
+    border-bottom: 2px solid #b9b9b9;
+
+
+}
+
+h5 { color: teal
+}
+
+.footer { border-top: teal solid 4px;
+    position: fixed;
+}
+
+.picture { 
+    height: 100px;
+    width: 200px; 
+}
